@@ -30,8 +30,8 @@ const Adarsh = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>  
 
 [<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>](https://www.linkedin.com/in/adarshsc2000/)
-<!-- [<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053821-af57cb35-246b-4d37-8418-2dc8664ddc37.png"/>](https://twitter.com/Adarsh) -->
 [<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053752-f53f94fc-8cbc-4754-a547-a27694d237e4.png"/>](https://www.instagram.com/adarshsc2000/) 
+<!-- [<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053821-af57cb35-246b-4d37-8418-2dc8664ddc37.png"/>](https://twitter.com/Adarsh) -->
 <br />
 
 <summary><h2>Github Stats 📈:</h2></summary>
