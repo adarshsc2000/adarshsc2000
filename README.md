@@ -2,7 +2,7 @@
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
-Hi, my name is Adarsh. I am a Final Year Student at University of Bahrain (UOB) pursuing my Bachelor's Degree in Computer Science. I like spending my time working on projects, participating in hackathons and enjoy bringing innovation to this world. Check out my portfolio [here](https://adarshchandran2000.github.io/).
+Hi, my name is Adarsh. I am a Final Year Student at University of Bahrain (UOB) pursuing my Bachelor's Degree in Computer Science. I like spending my time working on projects, participating in hackathons and bringing innovation to this world. Check out my portfolio [here](https://adarshchandran2000.github.io/).
 
 
 ## The developer side of me...  
