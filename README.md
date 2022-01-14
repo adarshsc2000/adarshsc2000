@@ -11,7 +11,6 @@ const Adarsh = {
 	pronouns: "he" | "him",
 	code: [JS, TS, C++, PHP, Python, Java],
 	framework: [ReactJS, AngularJS],
-	// devOps: [Docker, Kubernetes, Prometheus],
 	tools: [Bootstrap, Tailwind CSS],
 	techCommunities: {
 		member: "Developer Student Club - Bahrain",
