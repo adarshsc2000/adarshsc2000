@@ -20,9 +20,9 @@ const Adarsh = {
 ```
 
 <p align="center">
-   <img height="170" width="150" src="https://github.com/AdarshChandran2000/AdarshChandran2000/gamer.png">
+   <!-- <img height="170" width="150" src="https://github.com/AdarshChandran2000/AdarshChandran2000/gamer.png"> -->
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdarshChandran2000&theme=neon-dark"/>
-   <img height="170" width="150" src="https://github.com/AdarshChandran2000/AdarshChandran2000/IronMan.png">
+   <!-- <img height="170" width="150" src="https://github.com/AdarshChandran2000/AdarshChandran2000/IronMan.png"> -->
 </p>
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
