@@ -36,8 +36,8 @@ const Adarsh = {
 <summary><h2>Github Stats 📈:</h2></summary>
 	
 <p align="center">
-  <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=AdarshChandran2000&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
-  <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshChandran2000&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+  <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=adarshsc2000&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
+  <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsc2000&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
 </p>
 
 <details align="center">
@@ -51,20 +51,9 @@ const Adarsh = {
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=adarshsc2000column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=adarshsc2000&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
   </a>
 </p>
 </details>
 
 <p><code><img height="20" src="https://komarev.com/ghpvc/?username=adarshsc2000&color=blue"></code></p>
-
-<!--   
- funfact: "I love coding+eating+repeating"
-- 🔭 I’m currently working on Front End Web Development
-- 🌱 I’m currently learning MERN stack
-- 😄 Pronouns: He/His
-- 🎯 Portfolio site: [Portfolio](https://harshal09.netlify.app/)  
-## Tech I'm familiar with...
-<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
-<br />
--->
