@@ -2,7 +2,7 @@
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
 
-Hi, my name is Adarsh. I am a Final Year Student at University of Bahrain (UOB) pursuing my Bachelor's Degree in Computer Science. I like spending my time working on projects, participating in hackathons and bringing innovation to this world. Check out my portfolio [here](https://adarshchandran2000.github.io/).
+Hi, my name is Adarsh. I am a Final Year Student at University of Bahrain (UOB) pursuing my Bachelor's Degree in Computer Science. I like spending my time working on projects, participating in hackathons and bringing innovation to this world. Check out my portfolio [here](https://adarshsc000.github.io/).
 
 
 ## The developer side of me...  
@@ -20,9 +20,9 @@ const Adarsh = {
 ```
 
 <p align="center">
-   <!-- <img height="170" width="150" src="https://github.com/AdarshChandran2000/AdarshChandran2000/gamer.png"> -->
+   <!-- <img height="170" width="150" src="https://github.com/adarshsc2000AdarshChandran2000/gamer.png"> -->
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdarshChandran2000&theme=neon-dark"/>
-   <!-- <img height="170" width="150" src="https://github.com/AdarshChandran2000/AdarshChandran2000/IronMan.png"> -->
+   <!-- <img height="170" width="150" src="https://github.com/adarshsc2000AdarshChandran2000/IronMan.png"> -->
 </p>
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
@@ -43,7 +43,7 @@ const Adarsh = {
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AdarshChandran2000&theme=xcode" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=adarshsc2000&theme=xcode" />
 </p>
 </details>
 
@@ -51,12 +51,12 @@ const Adarsh = {
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdarshChandran2000&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=adarshsc2000column=4&margin-w=5&margin-h=5&theme=darkhub"/>
   </a>
 </p>
 </details>
 
-<p><code><img height="20" src="https://komarev.com/ghpvc/?username=AdarshChandran2000&color=blue"></code></p>
+<p><code><img height="20" src="https://komarev.com/ghpvc/?username=adarshsc2000&color=blue"></code></p>
 
 <!--   
  funfact: "I love coding+eating+repeating"
