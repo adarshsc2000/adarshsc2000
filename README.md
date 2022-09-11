@@ -1,6 +1,6 @@
 <h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Adarsh Shinju Chandran</h2>
 
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200'>
 
 Hi, my name is Adarsh. I am a Final Year Student at University of Bahrain (UOB) pursuing my Bachelor's Degree in Computer Science. I like spending my time working on projects, participating in hackathons and bringing innovation to this world. Check out my portfolio [here](https://adarshsc000.github.io/).
 
