@@ -29,7 +29,7 @@ Welcome to my GitHub! Here you'll find my projects, collaborations, and things I
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img alt="C_Language" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img alt="C Language" src="https://img.shields.io/badge/-C_Language-A8B9CC?style=flat&logo=c&logoColor=white" />
 </p>
 
 #### Github Stats 📈
